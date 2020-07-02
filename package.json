@@ -12,7 +12,7 @@
     "url": "https://github.com/KellenHe/ng-idle-session/issues"
   },
   "homepage": "https://github.com/KellenHe/ng-idle-session.git#readme",
-  "private": true,
+  "private": false,
   "scripts": {
     "clean:coverage": "rimraf coverage",
     "clean:dist": "rimraf dist",
