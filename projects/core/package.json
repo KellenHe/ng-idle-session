@@ -1,10 +1,10 @@
 {
-  "name": "@ng-idle/core",
-  "version": "8.0.0-beta.4",
+  "name": "ng-idle-session-core",
+  "version": "1.0.0",
   "description": "A module for detecting and responding to the user becoming idle in Angular applications.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HackedByChinese/ng2-idle.git"
+    "url": "https://github.com/KellenHe/ng-idle-session.git"
   },
   "keywords": [
     "angular",
@@ -16,12 +16,12 @@
     "timeout",
     "session"
   ],
-  "author": "Mike Grabski <me@mikegrabski.com> (http://mikegrabski.com/)",
+  "author": "Kellen <heshi.net288@hotmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/HackedByChinese/ng2-idle.git/issues"
+    "url": "https://github.com/KellenHe/ng-idle-session/issues"
   },
-  "homepage": "https://github.com/HackedByChinese/ng2-idle.git#readme",
+  "homepage": "https://github.com/KellenHe/ng-idle-session.git#readme",
   "peerDependencies": {
     "@angular/common": "^8.0.0",
     "@angular/core": "^8.0.0"
