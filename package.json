@@ -1,17 +1,17 @@
 {
   "name": "ng-idle-session",
   "description": "A module for responding to idle users in Angular applications. use session instead of localStorage",
-  "version": "8.0.0",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HackedByChinese/ng2-idle.git"
+    "url": "https://github.com/KellenHe/ng-idle-session.git"
   },
-  "author": "Mike Grabski <me@mikegrabski.com> (http://mikegrabski.com/)",
+  "author": "Kellen <heshi.net288@hotmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/HackedByChinese/ng2-idle.git/issues"
+    "url": "https://github.com/KellenHe/ng-idle-session/issues"
   },
-  "homepage": "https://github.com/HackedByChinese/ng2-idle.git#readme",
+  "homepage": "https://github.com/KellenHe/ng-idle-session.git#readme",
   "private": true,
   "scripts": {
     "clean:coverage": "rimraf coverage",
