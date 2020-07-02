@@ -20,7 +20,7 @@ export class LocalStorage {
    */
   private getStorage(): Storage {
     try {
-      const storage = localStorage;
+      const storage = sessionStorage;
       storage.setItem('ng2IdleStorage', '');
       storage.removeItem('ng2IdleStorage');
       return storage;

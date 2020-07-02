@@ -1,6 +1,6 @@
 {
-  "name": "ng-idle",
-  "description": "A module for responding to idle users in Angular applications.",
+  "name": "ng-idle-session",
+  "description": "A module for responding to idle users in Angular applications. use session instead of localStorage",
   "version": "8.0.0",
   "repository": {
     "type": "git",
